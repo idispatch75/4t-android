@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ForThune</string>
+
+    <string-array name="main_actions_list">
+        <item>Transactions</item>
+        <item>Contacts</item>
+        <item>Synch.</item>
+    </string-array>
+    
+    <string name="tab_transactions_bycontact">By contact</string>
+    <string name="tab_transactions_all">All</string>
+    <string name="tab_transactions_new">New</string>
+    
+    <string name="action_settings">Settings</string>
+	<string name="action_search">Search</string>
+	<string name="action_add">Add</string>
+</resources>

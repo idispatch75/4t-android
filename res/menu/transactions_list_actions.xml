@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:forthune="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_add"
+          android:icon="@android:drawable/ic_menu_add"
+          android:title="@string/action_add"
+          android:showAsAction="ifRoom"
+          forthune:showAsAction="ifRoom" />
+    
+    <item android:id="@+id/action_settings"
+          android:title="@string/action_settings"
+          android:showAsAction="never"
+          forthune:showAsAction="never" />
+</menu>
